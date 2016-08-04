@@ -1,0 +1,26 @@
+_repo: White-Lies_2472
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Reade, Charles
+    birthdate: 1814
+    deathdate: 1884
+    gutenberg_agent_id: '618'
+    url: http://www.gutenberg.org/2009/agents/618
+    wikipedia: http://en.wikipedia.org/wiki/Charles_Reade
+description: ''
+gutenberg_issued: '2006-05-17'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '2472'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PR'
+- !lcsh 'France -- History -- Wars of the Vendée, 1793-1832 -- Fiction'
+- !lcsh 'Marriage -- Fiction'
+- GITenberg
+title: White Lies
+url: http://www.gutenberg.org/ebooks/2472
